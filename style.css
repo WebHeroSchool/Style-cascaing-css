@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Great Vibes';
     src: url('fonts/GreatVibes-Regular.woff2') format('woff2'),
-        url('fonts/GreatVibes-Regular.woff') format('woff');
+         url('fonts/GreatVibes-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -10,7 +10,7 @@
 @font-face {
     font-family: 'Inconsolata';
     src: url('fonts/Inconsolata-Regular.woff2') format('woff2'),
-        url('fonts/Inconsolata-Regular.woff') format('woff');
+         url('fonts/Inconsolata-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
